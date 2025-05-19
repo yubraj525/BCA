@@ -1,0 +1,40 @@
+<!-- <college>
+    <student>
+         <firstname>John</firstname>
+        <lastname>cena</lastname>
+         <contact>9876543210</contact>
+          <email>john@gmail.com</email>
+          <address>
+                <city>chennai</city>
+                 <state>tamilnadu</state>
+                 <pin>600001</pin>
+             </address>
+    </student>
+ </college> -->
+
+
+<!DOCTYPE company[
+<!ELEMENT company (employee+)>
+<!ELEMENT employee (name, age, email, address)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT address (city, state, pin, landmark)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT pin (#PCDATA)>
+<!ELEMENT landmark (#PCDATA)>
+]>
+ <company>
+    <employee>
+     <name>John</name>
+     <age>30</age>
+     <email>john@example.com</email>
+         <address>
+<city>New York</city>
+<state>NY</state>
+<pin>10001</pin>
+<landmark>Central Park</landmark>
+         </address>
+    </employee>
+</company>
