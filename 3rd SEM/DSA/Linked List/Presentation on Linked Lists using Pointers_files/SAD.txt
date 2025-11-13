@@ -1,0 +1,128 @@
+📘 Unit 1: System Development Fundamentals (9 Hrs)
+a. The Systems Development Environment
+Introduction: Purpose of System Analysis & Design (SA&D) is to improve business processes with technology.
+
+Modern Approach of SA&D: Iterative, user-focused, flexible.
+
+Information System Types:
+
+TPS (Transaction Processing Systems)
+
+MIS (Management Information Systems)
+
+DSS (Decision Support Systems)
+
+ESS (Executive Support Systems)
+
+Systems Development Life Cycle (SDLC): Planning → Analysis → Design → Implementation → Maintenance.
+
+Heart of Systems Development: Understanding user needs and business processes.
+
+Traditional Waterfall SDLC: Step-by-step, structured, but rigid.
+
+Improving Development Approaches:
+
+CASE Tools: Computer-aided software engineering tools.
+
+RAD: Rapid Application Development – faster prototyping.
+
+SOA: Service-Oriented Architecture – uses web services.
+
+Agile Methodologies: Iterative, user feedback focused.
+
+Extreme Programming (XP): Short development cycles, frequent releases.
+
+OOAD: Object-Oriented Analysis & Design – focuses on real-world modeling.
+
+b. The Origins of Software
+System Acquisition: Buy vs. build software.
+
+Software Reuse: Using existing software modules/libraries to save time and cost.
+
+c. Managing the Information Systems Project
+Project Management Basics: Time, cost, scope, and quality.
+
+Scheduling Techniques: Gantt Charts, PERT/CPM.
+
+Project Management Tools: MS Project or similar software to plan, track, and manage resources.
+
+📘 Unit 2: Planning (7 Hrs)
+a. Identification and Selection
+Project Selection: Based on business needs, feasibility, strategic alignment.
+
+Corporate & IS Planning: Align IS goals with business strategies.
+
+b. Initiation and Planning
+Initiating Projects: Understanding the need/problem.
+
+Planning Projects:
+
+Identify objectives and scope.
+
+Define project constraints and assumptions.
+
+Feasibility Analysis:
+
+Technical
+
+Economic
+
+Operational
+
+Schedule
+
+Baseline Project Plan: A detailed initial plan before project starts.
+
+📘 Unit 3: Analysis (13 Hrs)
+a. System Requirements
+Requirement Determination: What the system must do (functional/non-functional).
+
+Traditional Methods:
+
+Interviews
+
+Questionnaires
+
+Document Analysis
+
+Observation
+
+Contemporary Methods:
+
+JAD (Joint Application Development)
+
+Prototyping
+
+Radical Methods:
+
+Business Process Reengineering (BPR)
+
+Requirements Management Tools:
+
+Tools like JIRA, Trello for managing requirements.
+
+Agile Requirements:
+
+User Stories
+
+Product Backlog
+
+Sprint Planning
+
+b. System Process Requirements
+Modeling system processes using:
+
+Data Flow Diagrams (DFD)
+
+Flowcharts
+
+Use Case Diagrams (for OOAD)
+
+✅ Tips for Exam Preparation
+Make flashcards for terms like SDLC, RAD, JAD, BPR, Agile, SOA.
+
+Draw diagrams: Waterfall model, DFDs, Gantt chart samples.
+
+Practice short notes on each methodology.
+
+Revise differences: Agile vs. Waterfall, RAD vs. Traditional, etc.

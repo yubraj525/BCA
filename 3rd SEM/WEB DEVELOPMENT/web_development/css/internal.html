@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        *{
+            box-sizing: border-box;
+            margin: 0;
+
+        }
+        h3, h1{
+            text-align: center;
+        }
+        .container{
+            
+            display: flex;
+            
+            justify-content: center;
+            gap: 150px;
+        }
+        .text{
+            background-color: red;
+            width: 50%;
+        }
+        .container2{
+            display: flex;
+            flex-direction:column ;
+            height: 100vh;
+            width: 100vw;
+            background-color: green;
+
+        }
+        .navbar, .footer
+        {
+            width: 100%;
+            height: 10%;
+            background-color: red;
+        }
+        .main{
+            display: flex;
+            flex-direction: row;
+            height: 80%;
+            width: 100%;
+        }
+        ul{
+            list-style-type:none;
+           
+            
+        }
+        a{
+            text-decoration: none;
+
+        }
+        .aside{
+            background-color: pink;
+           
+            height: 100%;
+            width: 30%;
+        }
+        .content{
+            background-color: blue;
+          height: 100%;
+          width: 100%;
+        }
+        
+    </style>
+        <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- 
+    <h1 style="background-color: brown; color: blue;">Welcome to BCA 2023 Batch</h1>
+ <h3>this is simple html file</h3>
+ <div class="container">
+<div class="text">
+    <h3> hi, iam yubraj</h3>
+    <h3> my favorite color is blue</h3>
+    <h3> i am learning html and css</h3>
+    <h3>i am learning javascript</h3>
+</div>
+
+<div class="text2">
+    <h3> hi, iam yubraj</h3>
+    <h3> my favorite color is blue</h3>
+    <h3> i am learning html and css</h3>
+</div>
+ </div> -->
+ <div class="container2">
+    <div class="navbar"></div>
+    <div class="main">
+        <div class="aside">
+            <ul>
+                <li><a href="Home.html" target="#content">Home</a></li>
+                <li><a href="aboutus.html" target="content">About</a></li>
+                <li><a href="contactus.html" target="content">Contact US</a></li>
+            </ul>
+        </div>
+        <div class="content" id="content"></div>
+    </div>
+    <div class="footer"></div>
+ </div>
+
+</body>
+</html>

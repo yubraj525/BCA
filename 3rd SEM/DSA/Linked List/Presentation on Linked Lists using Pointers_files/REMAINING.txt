@@ -1,0 +1,9 @@
+DONE:
+	menu list
+	Stack
+	Expression_check
+
+REMAIN:
+	infix to postfix
+	infix to prefix
+	simplify

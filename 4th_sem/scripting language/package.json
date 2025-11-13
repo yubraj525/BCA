@@ -1,0 +1,17 @@
+{
+  "name": "scripting language",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Classwork/Problem1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "nodemon datattypes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.4",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

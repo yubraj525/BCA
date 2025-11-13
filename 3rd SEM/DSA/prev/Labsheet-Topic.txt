@@ -1,0 +1,48 @@
+EXP 1 : Menu List
+EXP 2: Stack
+Linked list
+singly-
+naya node banuane
+tyo node lai header le point garne
+
+
+
+
+
+
+
+front:max-1
+rear Max-1
+
+if posiiton=Max 
+
+return ((position+1)%MAX)
+if front=rear empty
+0
+if rear+1=front full
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linked list ??
+math?
+java?
+node ?

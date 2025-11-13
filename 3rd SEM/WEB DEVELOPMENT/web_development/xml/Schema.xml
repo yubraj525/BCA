@@ -1,0 +1,27 @@
+<!DOCT1YPE library[
+<!EL11EMENT library (books,employee,reader);
+<!ELEMENT 
+]>
+<library>
+ <books>
+    <title>
+    </title>
+    <authhor>
+    </author>
+ <books>
+
+ <employee>
+    <employeee_id>
+    </employeee_id>
+    <employee_name>
+    </employee_name>
+ </employee>
+
+ <reader>
+    <day>
+    </day>
+    <nbooks>
+    </nbooks>
+ </reader>
+
+</library>

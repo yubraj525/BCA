@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do list </title>
+    <style>
+        .notcompleted{
+            background-color: rgb(255, 99, 71);
+            text-decoration: line-through;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+
+        }
+        #taskInput {
+            width: 200px;
+            padding: 5px;
+            margin-right: 10px;
+        }
+        #addTaskBtn {
+            padding: 5px 10px;
+        }
+        #taskTable {
+            margin-top: 20px;
+            width: 100%;
+            border-collapse: collapse;
+        }
+        #taskTable th, #taskTable td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        #taskTable th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body>
+    <input type="text" id="taskInput" placeholder="Enter a task">
+    <button id="addTaskBtn">Add Task</button>
+    <table id="taskTable" border="1" cellpadding="5" cellspacing="0">
+        <thead>
+            <tr>
+                <th>date</th>
+                <th>Task</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody id="content">
+        </tbody>
+    <script src="Todo.js"></script>
+</body>
+</html>

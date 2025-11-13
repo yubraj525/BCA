@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Social Links</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        <img src="person.jpg" alt="Person Photo" width="150" height="150" style="border-radius: 50%;">
+        <h2>Follow Me</h2>
+        <a href="https://facebook.com" target="_blank">Facebook</a> | 
+        <a href="https://youtube.com" target="_blank">YouTube</a> | 
+        <a href="https://github.com" target="_blank">GitHub</a> | 
+        <a href="https://instagram.com" target="_blank">Instagram</a>
+    </div>
+</body>
+</html>

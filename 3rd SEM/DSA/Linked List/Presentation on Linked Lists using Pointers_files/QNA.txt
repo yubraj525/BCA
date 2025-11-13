@@ -1,0 +1,4 @@
+ printf("\n%d",strlen(exp));  ?? why prints a grater || +1 value
+in which preto In or post to IN  currenr=stackvalue
+how to play with string such as first + current + second ??
+what is different between alphanumeric and alpha

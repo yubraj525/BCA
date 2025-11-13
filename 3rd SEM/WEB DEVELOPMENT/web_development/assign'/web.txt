@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ishan site<title>
+</head>
+<body>
+<header>
+<nav>
+</nav>
+</header>
+<div class="contaier">
+<h1> hello world</h1>
+</div>
+
+</body>
